@@ -1,16 +1,16 @@
 # 💫 Hi 👋, I'm Aryan Kumar
-**A passionate AIML Engineer || FullStack Developer || And a DESIGNER**
+### **A passionate AIML Engineer & FullStack Developer from India**
 
-Email Me 👉 ✉️ **aryan2025infinity@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zyven-x&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 - 🔭 **I’m currently working on:** FX Website.
-- 🌱 **I’m currently learning:** ML to build some cool AI.
+- 🌱 **I’m currently learning:** ML & Devops.
 - 👯 **I’m looking to collaborate on:** ML & Web Developer.
-- 🤔 **I’m looking for help with:** my upcoming projects.
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** **aryan2025infinity@gmail.com**
 - 😄 **Pronouns:** Zyven_X
-- ⚡ **Fun fact:** My all socials are not similar u can check.
+- ⚡ **Fun fact:** I am a Designer & 3D Modeler too.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DWHXSu3pkK) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-kumar-81a2632b9) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Agile-Drawing-104) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan2025infinity@gmail.com) 
@@ -25,20 +25,17 @@ Email Me 👉 ✉️ **aryan2025infinity@gmail.com** For Collaboration/Project o
 </div>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyven-x&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=zyven-x&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zyven-x&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyven-x&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zyven-x&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zyven-x&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=zyven-x&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰Support my projects by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/XARTED) 
 
   
