@@ -37,6 +37,3 @@
 
   ## 💰Support my projects by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/XARTED) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
