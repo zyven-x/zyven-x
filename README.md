@@ -7,7 +7,7 @@
 - 🔭 **I’m currently working on:** FX Website.
 - 🌱 **I’m currently learning:** ML & Devops.
 - 👯 **I’m looking to collaborate on:** ML & Web Developer.
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Collaboration, Project Ideas
 - 📫 **How to reach me:** **aryan2025infinity@gmail.com**
 - 😄 **Pronouns:** Zyven_X
 - ⚡ **Fun fact:** I am a Designer & 3D Modeler too.
