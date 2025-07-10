@@ -4,7 +4,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zyven-x&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 🔭 **I’m currently working on:** FX Website.
+- 🔭 **I’m currently working on:** FX & tools web.
 - 🌱 **I’m currently learning:** ML & Devops.
 - 👯 **I’m looking to collaborate on:** ML & Web Developer.
 - 💬 **Ask me about:** Collaboration, Project Ideas
