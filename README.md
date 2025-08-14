@@ -1,15 +1,14 @@
-# 💫 Hi 👋, I'm Aryan Kumar
-### **A passionate AIML Engineer & FullStack Developer from India**
+# 💫 Hi 👋, I'm Aryan Singh
+### **A AIML Engineer & FullStack Developer from India**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zyven-x&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 🔭 **I’m currently working on:** FX & tools web.
+- 🔭 **I’m currently working on:** ML Projects.
 - 🌱 **I’m currently learning:** ML & Devops.
 - 👯 **I’m looking to collaborate on:** ML & Web Developer.
-- 💬 **Ask me about:** Collaboration, Project Ideas
+- 💬 **Ask me about:** Development, Design & Project Ideas.
 - 📫 **How to reach me:** **aryan2025infinity@gmail.com**
-- 😄 **Pronouns:** Zyven_X
 - ⚡ **Fun fact:** I am a Designer & 3D Modeler too.
 
 ## 🌐 Socials:
